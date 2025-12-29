@@ -94,7 +94,7 @@ streamlit run app.py
 
 ## 🧪 Example Questions to Try
 
-You can ask questions such as:
+You can ask questions such as ( eg. if you use the files shared in the assets folder for embeddings ):
 
 - **What are the working hours mentioned in the document?**
 - **Is remote work allowed?**
