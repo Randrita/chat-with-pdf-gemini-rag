@@ -79,6 +79,7 @@ This project solves that problem using **RAG**, which combines:
 
 ```env
 GOOGLE_API_KEY=your_gemini_api_key_here
+```
 
 
 ## 🛠️ Setup & Usage
@@ -88,6 +89,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 ## 🧪 Example Questions to Try
@@ -103,4 +105,3 @@ If the answer is **not present in the uploaded PDFs**, the system responds with:
 
 > **"Answer is not available in the context."**
 
-This ensures the model does **not hallucinate or guess** and answers strictly from the provided documents.
